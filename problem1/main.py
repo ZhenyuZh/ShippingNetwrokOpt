@@ -37,3 +37,4 @@ if __name__ == '__main__':
     ## solver instance
     solver = P1Solver(asiaNet)
     solver.solve()
+    solver.postAnalysis()
